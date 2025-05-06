@@ -78,3 +78,4 @@ Citations:
 [16] https://mirror.xyz/0x2FEA23C525F4d6EB9be1C2B79299Ba22206D7c20
 [17] https://mexcreferralcode.github.io/
 [18] https://gist.github.com/ReferralCodesHub
+[19] https://www.perplexity.ai/collections/mexc-referral-code-mexc-xr-az_abL7LR1anDTYxNJlngw
